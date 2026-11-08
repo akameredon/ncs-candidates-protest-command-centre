@@ -1,0 +1,2 @@
+-- See Supabase migration history; schema provisioned via Supabase migration tool.
+-- This file documents the applied migration.
